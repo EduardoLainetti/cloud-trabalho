@@ -6,5 +6,4 @@ https://github.com/EduardoLainetti/cloud-trabalho
 
 ## Aplicação
 
-https://to.do
-
+http://nodejstrabalho-env.eba-wrd2mdxh.us-east-1.elasticbeanstalk.com/
